@@ -1,0 +1,43 @@
+"Jos\u00e9 Rizal"	1
+"L. Frank Baum"	1
+"L.W. King and H.R. Hall"	1
+"Lewis Carroll"	1
+"Miguel de Cervantes Saavedra"	1
+"Robert Louis Stevenson"	2
+"Alexandre Dumas, P\u00e8re"	1
+"Anonymous"	1
+"Armando Palacio Vald\u00e9s"	1
+"Arthur Conan Doyle"	1
+"Benito P\u00e9rez Gald\u00f3s"	1
+"Fritz Leiber"	1
+"Fyodor Dostoyevsky"	1
+"George H. Ellwanger"	1
+"George Sand"	1
+"Gustave Aimard"	1
+"Henrik Ibsen"	1
+"Homer"	1
+"Edmond About"	1
+"Elizabeth von Arnim"	1
+"Ellen C. Babbitt"	1
+"Franklin W. Dixon"	1
+"Frederick Douglas How"	1
+"Friedrich Nietzsche"	1
+"Rufino Blanco Fombona"	1
+"Rutherford Platt"	1
+"Salvador Brau"	1
+"Sui Sin Far"	1
+"Thomas Cooper"	1
+"Vicente Blasco Ib\u00e1\u00f1ez"	1
+"Bernard Capes"	2
+"Charles Nodier"	1
+"D. K. Broster"	1
+"Dante Alighieri"	1
+"Domingo Faustino Sarmiento"	1
+"Horacio Quiroga"	1
+"J. E. Barton"	1
+"Jack London"	1
+"James Matthew Barrie"	1
+"Jane Austen"	1
+"John Hatlem"	1
+"John James Blunt"	1
+"Wilkie Collins"	1
